@@ -1,0 +1,14 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+roots:wild_mage
+totemic:totemist
+vampirism:hunter_expert
+vampirism:vampire_expert
+bewitchment:hedge_witch
+bewitchment:alchemist
+forestry:arborist
+forestry:apiarist
