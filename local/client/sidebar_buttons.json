@@ -1,0 +1,16 @@
+{
+	"ftblib": {
+		"my_team": true,
+		"settings": true,
+		"admin_panel": true
+	},
+	"ftbguides": {
+		"guides": true
+	},
+	"ftbquests": {
+		"quests": true
+	},
+	"ftbmoney": {
+		"shop": true
+	}
+}
